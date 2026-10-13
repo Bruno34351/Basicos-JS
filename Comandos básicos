@@ -1,0 +1,12 @@
+//Para "imprimir" el texto
+console.log("Texto");
+  
+//Crear variables modificables posteriormente
+let NombreDeLaVariable = "ValorDeLaVariable";
+
+//Crear variables únicas
+const Nombre2 = "Valor2"
+
+//Para variables booleanas, solo puede tomar un único valor
+let Nombre3 = true;
+let Nombre4 = false;
