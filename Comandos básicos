@@ -1,6 +1,9 @@
 //Para "imprimir" el texto
 console.log("Texto");
   
+//Crear variables
+var Nombre = Valor;
+
 //Crear variables modificables posteriormente
 let NombreDeLaVariable = "ValorDeLaVariable";
 
@@ -10,3 +13,14 @@ const Nombre2 = "Valor2"
 //Para variables booleanas, solo puede tomar un único valor
 let Nombre3 = true;
 let Nombre4 = false;
+
+//Operadores clásicos
+let a = 5;
+let b = 8;
+let c = a + b;
+let d = a / b;
+
+//Operadores especiales
+let x = 10;
+let y = 3;
+let z = x % y; //% calcula el resto de una división, sirve para verificar si un número es par (Resto 0) o impar (Resto distinto de 0)
