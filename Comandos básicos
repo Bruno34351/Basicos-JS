@@ -24,3 +24,7 @@ let d = a / b;
 let x = 10;
 let y = 3;
 let z = x % y; //% calcula el resto de una división, sirve para verificar si un número es par (Resto 0) o impar (Resto distinto de 0)
+
+//Autoperar variables
+let s = 5;
+s += 3; //Igual a 5 + 3 = 8
